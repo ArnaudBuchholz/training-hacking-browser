@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ArnaudBuchholz/training-hacking-browser#readme",
   "dependencies": {
     "puppeteer": "^25.3.0"
+  },
+  "allowScripts": {
+    "puppeteer@25.3.0": true
   }
 }
